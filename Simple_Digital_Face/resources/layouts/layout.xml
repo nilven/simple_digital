@@ -1,0 +1,8 @@
+<layout id="WatchFace">
+    <label id="TimeLabel" x="center" y="center" font="Gfx.FONT_NUMBER_THAI_HOT" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE" /><label
+    	id="DateLabel" x="center" y="10" font="Gfx.FONT_SMALL" justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+</label>
+	<label id="TimeExtLabel" x="180" y="80" font="Gfx.FONT_TINY"
+		justification="Gfx.TEXT_JUSTIFY_CENTER" color="Gfx.COLOR_WHITE">
+	</label>
+</layout>

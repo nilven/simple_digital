@@ -1,0 +1,5 @@
+<resources>
+    <string id="AppName">Simple_Digital_Face</string>
+
+    <bitmap id="LauncherIcon" filename="images/launcher_icon.png" />
+</resources>
